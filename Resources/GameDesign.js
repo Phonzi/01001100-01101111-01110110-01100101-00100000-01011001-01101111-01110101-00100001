@@ -60,9 +60,10 @@ add_decoration(12400,600,600,600, function (Ims){ return Ims.tireTree});
 add_decoration(12400,300,300,300, function (Ims){ return Ims.leaves});
 add_decoration(13000,600,600,600, function (Ims){ return Ims.home});
 add_decoration(13800,390,130,350, function (Ims){ return Ims.mailbox});
+add_decoration(13790,310,140,70, function (Ims){ return Ims.fonzi});
 
 
-x_scroll=12000;
+x_scroll=00000;
 
 
 //Ground
@@ -76,5 +77,9 @@ spawn_heart(1700,500,3400)
 spawn_heart(1800,500,4100)
 spawn_heart(1900,500,5100)
 spawn_heart(1000,500,6800)
+spawn_heart(1000,500,8600)
+spawn_heart(1000,500,9450)
+spawn_heart(1000,500,10800)
+spawn_heart(1000,500,13700)
 
 

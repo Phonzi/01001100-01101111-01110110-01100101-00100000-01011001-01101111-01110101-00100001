@@ -28,6 +28,8 @@ class Images{
 		this.nashville=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Nashville.jpg")
 		this.mc=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/M&C.png")
 		this.beans=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Beans.png")
+		this.spice=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Spice.png")
+		this.wonder=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Wonder.png")
 	}
 	
 }

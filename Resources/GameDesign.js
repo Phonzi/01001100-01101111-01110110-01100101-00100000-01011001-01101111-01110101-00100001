@@ -35,7 +35,15 @@ add_decoration(6625,280,250,83, function (Ims){ return Ims.oakridge});
 add_decoration(7000,480,600,500, function (Ims){ return Ims.treeBirbs});
 
 add_decoration(8200,220,200,200, function (Ims){ return Ims.mc});
-add_decoration(8200,220,200,200, function (Ims){ return Ims.beans});
+add_decoration(8400,220,200,200, function (Ims){ return Ims.beans});
+add_decoration(8500,220,200,200, function (Ims){ return Ims.beans});
+add_decoration(8600,220,200,200, function (Ims){ return Ims.beans});
+add_decoration(8450,400,200,200, function (Ims){ return Ims.beans});
+add_decoration(8550,400,200,200, function (Ims){ return Ims.beans});
+add_decoration(8500,580,200,200, function (Ims){ return Ims.beans});
+add_decoration(8800,220,200,200, function (Ims){ return Ims.mc});
+
+add_decoration(9300,420,400,400, function (Ims){ return Ims.spice});
 
 
 x_scroll=8000;

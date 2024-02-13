@@ -26,6 +26,8 @@ class Images{
 		this.treeBirbs=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/TreeBirds.png")
 		this.bunny=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Bunny.png")
 		this.nashville=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Nashville.jpg")
+		this.mc=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/M&C.png")
+		this.beans=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Beans.png")
 	}
 	
 }

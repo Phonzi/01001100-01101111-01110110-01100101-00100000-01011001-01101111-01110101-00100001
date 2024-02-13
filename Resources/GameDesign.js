@@ -34,7 +34,11 @@ add_decoration(6625,280,250,83, function (Ims){ return Ims.oakridge});
 
 add_decoration(7000,480,600,500, function (Ims){ return Ims.treeBirbs});
 
+add_decoration(8200,220,200,200, function (Ims){ return Ims.mc});
+add_decoration(8200,220,200,200, function (Ims){ return Ims.beans});
 
+
+x_scroll=8000;
 
 
 //Ground

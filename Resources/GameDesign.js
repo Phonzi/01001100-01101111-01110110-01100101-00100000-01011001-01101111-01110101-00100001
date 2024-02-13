@@ -13,10 +13,9 @@ add_decoration(3500,800,300,300, function (Ims){ return Ims.cloud});
 
 add_decoration(500,300,300,300, function (Ims){ return Ims.bbq});
 
+add_decoration(1600,300,300,300, function (Ims){ return Ims.sign});
+add_decoration(1625,280,250,83, function (Ims){ return Ims.smountain});
 add_decoration(2000,700,800,800, function (Ims){ return Ims.mountain});
-add_decoration(2000,800,100,100, function (Ims){ return Ims.flock});
-
-add_decoration(3400,130,170,70, function (Ims){ return Ims.skates});
 
 add_decoration(3400,130,170,70, function (Ims){ return Ims.skates});
 add_decoration(3200,130,170,70, function (Ims){ return Ims.skates});

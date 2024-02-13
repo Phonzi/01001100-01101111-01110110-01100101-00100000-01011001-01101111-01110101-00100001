@@ -6,7 +6,7 @@ function setup() {
 	images=new Images();
 }
 
-x_scroll=0000;
+x_scroll=3000;
 
 function draw() {
 	background(148,198,230);

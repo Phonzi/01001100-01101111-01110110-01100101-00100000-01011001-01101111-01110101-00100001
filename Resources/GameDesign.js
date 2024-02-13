@@ -18,6 +18,7 @@ add_decoration(2000,700,800,800, function (Ims){ return Ims.mountain});
 add_decoration(3400,130,170,70, function (Ims){ return Ims.skates});
 
 add_decoration(3400,130,170,70, function (Ims){ return Ims.skates});
+add_decoration(3200,130,170,70, function (Ims){ return Ims.skates});
 
 add_decoration(4100,500,500,500, function (Ims){ return Ims.movies});
 

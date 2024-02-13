@@ -19,8 +19,10 @@ add_decoration(3400,130,170,70, function (Ims){ return Ims.skates});
 
 add_decoration(3400,130,170,70, function (Ims){ return Ims.skates});
 add_decoration(3200,130,170,70, function (Ims){ return Ims.skates});
+add_decoration(3300,530,140,140, function (Ims){ return Ims.ball});
 
 add_decoration(4100,500,500,500, function (Ims){ return Ims.movies});
+add_decoration(4100,500,200,200, function (Ims){ return Ims.harry});
 
 add_decoration(5180,100,100,50, function (Ims){ return Ims.pasta});
 

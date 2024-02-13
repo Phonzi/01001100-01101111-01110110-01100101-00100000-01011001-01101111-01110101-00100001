@@ -16,6 +16,8 @@ class Images{
 		this.mountain=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/Mountain.png")
 		this.skates=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/Skates.png")
 		this.movies=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/Movies.gif")
+		this.harry=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/Harry.gif")
+		this.ron=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/Ron.gif")
 		this.pasta=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/PASTA.png")
 		this.hammock=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/Hammock.png")
 		this.sign=loadImage("https://raw.githubusercontent.com/Phonzi/01001100-01101111-01110110-01100101-00100000-01011001-01101111-01110101-00100001/master/Resources/Images/Sign.png")

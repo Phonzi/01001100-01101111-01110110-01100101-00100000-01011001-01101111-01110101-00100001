@@ -55,7 +55,10 @@ add_decoration(9600,820,600,600, function (Ims){ return Ims.wonder});
 add_decoration(10700,420,400,400, function (Ims){ return Ims.propose});
 
 //10
-add_decoration(11300,320,300,300, function (Ims){ return Ims.dogy});
+add_decoration(11800,180,330,120, function (Ims){ return Ims.dogy});
+add_decoration(12400,600,600,600, function (Ims){ return Ims.tireTree});
+add_decoration(12400,300,300,300, function (Ims){ return Ims.leaves});
+add_decoration(13000,600,600,600, function (Ims){ return Ims.home});
 
 
 x_scroll=11000;

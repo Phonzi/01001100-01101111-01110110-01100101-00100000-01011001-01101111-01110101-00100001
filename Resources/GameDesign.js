@@ -61,7 +61,7 @@ add_decoration(12400,300,300,300, function (Ims){ return Ims.leaves});
 add_decoration(13000,600,600,600, function (Ims){ return Ims.home});
 
 
-x_scroll=11000;
+x_scroll=12000;
 
 
 //Ground

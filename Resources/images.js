@@ -35,6 +35,7 @@ class Images{
 		this.home=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Home.png")
 		this.tireTree=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/TireTree.png")
 		this.leaves=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Leaves.png")
+		this.mailbox=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Mailbox.png")
 	}
 	
 }

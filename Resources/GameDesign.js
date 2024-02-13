@@ -59,6 +59,7 @@ add_decoration(11800,180,330,120, function (Ims){ return Ims.dogy});
 add_decoration(12400,600,600,600, function (Ims){ return Ims.tireTree});
 add_decoration(12400,300,300,300, function (Ims){ return Ims.leaves});
 add_decoration(13000,600,600,600, function (Ims){ return Ims.home});
+add_decoration(13800,390,130,350, function (Ims){ return Ims.mailbox});
 
 
 x_scroll=12000;

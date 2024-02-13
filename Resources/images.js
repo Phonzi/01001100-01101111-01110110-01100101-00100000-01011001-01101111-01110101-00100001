@@ -30,6 +30,10 @@ class Images{
 		this.beans=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Beans.png")
 		this.spice=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Spice.png")
 		this.wonder=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Wonder.png")
+		this.propose=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Propose.png")
+		this.dogy=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Golden.png")
+		this.home=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/Home.png")
+		this.tireTree=loadImage("https://raw.githubusercontent.com/Phonzi/phonzi.github.io/master/Resources/Images/TireTree.png")
 	}
 	
 }
